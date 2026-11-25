@@ -1,2 +1,3 @@
-# PRODIGY_WD_04
-Personal Portfolio 
+# Personal portfolio
+
+A portfolio website built as part of my Prodigy Infotech web development exercises.
